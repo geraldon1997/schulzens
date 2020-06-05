@@ -666,11 +666,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/team1.png" alt="">
+                                <img src="assets/img/team/md.jpeg" alt="LARRY SCHULZE">
                             </div>
                             <div class="team-caption">
-                                <span>UX Designer</span>
-                                <h3>Ethan Welch</h3>
+                                <span>MD/CEO/Team leader</span>
+                                <h3>LARRY SCHULZE</h3>
                             </div>
                         </div>
                     </div>
