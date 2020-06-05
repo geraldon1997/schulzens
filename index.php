@@ -120,9 +120,9 @@
                         <span class="back-text">About us</span>
                     </div>
                     <div class="support-caption">
-                        <p class="pera-top">Mollit anim laborum duis au dolor in voluptcate velit ess cillum dolore eu lore dsu quality mollit anim laborumuis au dolor in voluptate velit cillu.</p>
-                        <p>Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjnt occa cupidatat non aute iruxvfg dhjinulpadeserunt mollitemnth incididbnt ut;o5tu layjobore mofllit anim.</p>
-                        <a href="about.html" class="btn red-btn2">read more</a>
+                        <p class="pera-top">SEIAH provides high quality commercial and residential marine construction for your coastal area. The SEIAH Team possesses a long-term strategic interest in servicing your coastal area marine needs.</p>
+                        <p>SEIAH has been built on a foundation repeat business, long-term relationships, and innovative, cost-effective solutions to produce the ultimate customer satisfaction.  This focus on cost-effective solutions, repeat business, and customer satisfaction has ensured SEIAH maintains its highly regarded team.</p>
+                        <a href="about.php" class="btn red-btn2">read more</a>
                     </div>
                 </div>
                 <div class="right-content">
