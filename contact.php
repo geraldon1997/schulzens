@@ -1,5 +1,6 @@
 <?php require_once 'layout/header.php' ?>
 <?php require_once 'layout/slider.php' ?>
+<?php require_once 'contact_process.php' ?>
 <!-- ================ contact section start ================= -->
 <section class="contact-section">
             <div class="container">
@@ -50,7 +51,7 @@
                         <h2 class="contact-title">Get in Touch</h2>
                     </div>
                     <div class="col-lg-8">
-                        <form class="form-contact contact_form" action="contact_process.php" method="post" id="contactForm" novalidate="novalidate">
+                        <form class="form-contact contact_form" action="" method="post" id="contactForm" novalidate="novalidate">
                             <div class="row">
                                 <div class="col-12">
                                     <div class="form-group">
@@ -76,27 +77,31 @@
                             <div class="form-group mt-3">
                                 <button type="submit" class="button button-contactForm boxed-btn">Send</button>
                             </div>
+                            <p><?php if (isset($success)) {
+                                echo $success;
+                               } ?></p>
                         </form>
                     </div>
                     <div class="col-lg-3 offset-lg-1">
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-home"></i></span>
                             <div class="media-body">
-                                <h3>Buttonwood, California.</h3>
-                                <p>Rosemead, CA 91770</p>
+                                <h3>25476 friendship Road C, Daphne</h3>
+                                <p>AL 36526 United States</p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                             <div class="media-body">
-                                <h3>+1 253 565 2365</h3>
-                                <p>Mon to Fri 9am to 6pm</p>
+                                <h3><a href="tel:+2059523823" style="color:black;">+ (205) 952-3823</a></h3>
+                                <h3><a href="tel:+17609336329" style="color:black;">+ 1 (760)-933-6329</a></h3>
+                                <p>Mon to sat 8am to 5:30pm</p>
                             </div>
                         </div>
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
-                                <h3>support@colorlib.com</h3>
+                                <h3><a href="mailto:larryschulze@schulzensgroups.com" style="color:black;">larryschulze@schulzensgroups.com</a></h3>
                                 <p>Send us your query anytime!</p>
                             </div>
                         </div>

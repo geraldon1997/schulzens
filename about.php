@@ -27,7 +27,7 @@
                         <img src="assets/img/gallery/safe_in.png" alt="">
                     </div>
                     <div class="support-img-cap text-center">
-                        <span>1994</span>
+                        <span>1959</span>
                         <p>Since</p>
                     </div>
                 </div>

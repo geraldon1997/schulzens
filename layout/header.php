@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>SCHULZENS ENGINEER AND INDUSTRIAL ARCHITECTURAL HOLDINGS</title>
+        <title>SCHULZENS ENGINEER AND INDUSTRIAL ARCHITECTURAL GROUPS</title>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="site.webmanifest">
@@ -46,6 +46,7 @@
                                 <div class="header-info-left">
                                     <ul>     
                                         <li><a href="tel:+2059523823" style="color:white;">+ (205) 952-3823</a></li>
+                                        <li><a href="tel:+17609336329" style="color:white;">+ 1 (760)-933-6329</a></li>
                                         <li><a href="mailto:larryschulze@schulzensgroups.com" style="color:white;">larryschulze@schulzensgroups.com</a></li>
                                         <li>Mon - Sat 8:00 - 17:30, Sunday - CLOSED</li>
                                     </ul>
@@ -83,19 +84,6 @@
                                             <li><a href="about.php">About</a></li>
                                             <li><a href="project.html">Projects</a></li>
                                             <li><a href="services.php">Services</a></li>
-                                            <li><a href="blog.html">Blog</a>
-                                                <ul class="submenu">
-                                                    <li><a href="blog.html">Blog</a></li>
-                                                    <li><a href="single-blog.html">Blog Details</a></li>
-                                                </ul>
-                                            </li>
-                                            <li><a href="#">Pages</a>
-                                                <ul class="submenu">
-                                                    <li><a href="elements.html">Element</a></li>
-                                                    <li><a href="project_details.html">Projects Details</a></li>
-                                                    <li><a href="services_details.html">Services Details</a></li>
-                                                </ul>
-                                            </li>
                                             <li><a href="contact.php">Contact</a></li>
                                         </ul>
                                     </nav>

@@ -120,8 +120,8 @@
                         <span class="back-text">About us</span>
                     </div>
                     <div class="support-caption">
-                        <p class="pera-top">SEIAH provides high quality commercial and residential marine construction for your coastal area. The SEIAH Team possesses a long-term strategic interest in servicing your coastal area marine needs.</p>
-                        <p>SEIAH has been built on a foundation repeat business, long-term relationships, and innovative, cost-effective solutions to produce the ultimate customer satisfaction.  This focus on cost-effective solutions, repeat business, and customer satisfaction has ensured SEIAH maintains its highly regarded team.</p>
+                        <p class="pera-top">SEIAG provides high quality commercial and residential marine construction for your coastal area. The SEIAG Team possesses a long-term strategic interest in servicing your coastal area marine needs.</p>
+                        <p>SEIAG has been built on a foundation repeat business, long-term relationships, and innovative, cost-effective solutions to produce the ultimate customer satisfaction.  This focus on cost-effective solutions, repeat business, and customer satisfaction has ensured SEIAG maintains its highly regarded team.</p>
                         <a href="about.php" class="btn red-btn2">read more</a>
                     </div>
                 </div>
@@ -131,7 +131,7 @@
                         <img src="assets/img/gallery/safe_in.png" alt="">
                     </div>
                     <div class="support-img-cap text-center">
-                        <span>1994</span>
+                        <span>1959</span>
                         <p>Since</p>
                     </div>
                 </div>

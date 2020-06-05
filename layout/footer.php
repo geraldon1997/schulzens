@@ -13,7 +13,7 @@
                                     </div>
                                     <div class="footer-tittle">
                                         <div class="footer-pera">
-                                            <p class="info1">SEIAH is fully licensed and insured, to protect our employees and customers.  Additionally, Owner and President Jason Bator holds and qualifies the companies General Contractor’s license.</p>
+                                            <p class="info1">SEIAG is fully licensed and insured, to protect our employees and customers.  Additionally, Owner and President Larry Schulze holds and qualifies the companies General Contractor’s license.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -36,10 +36,11 @@
                                     <div class="footer-tittle">
                                         <h4>Contact</h4>
                                         <div class="footer-pera">
-                                            <p class="info1">198 West 21th Street, Suite 721 New York,NY 10010</p>
+                                            <p class="info1">25476 friendship Road C, Daphne,AL 36526 United States</p>
                                         </div>
                                         <ul>
                                             <li><a href="tel:+2059523823">Phone: + (205) 952-3823</a></li>
+                                            <li><a href="tel:+17609336329">tel: +1 (760)-933-6329</a></li>
                                         </ul>
                                     </div>
                                 </div>
@@ -72,7 +73,7 @@
                             <div class="col-xl-12 ">
                                 <div class="footer-copy-right">
                                     <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <a href="https://schulzensgroup.com" target="_blank">SCHULZENS ENGINEERING AND INDUSTRIAL ARCHITECTURAL HOLDINGS</a>
+  Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved <a href="https://schulzensgroup.com" target="_blank">SCHULZENS ENGINEERING AND INDUSTRIAL ARCHITECTURAL GROUPS</a>
   <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                                 </div>
                             </div>
