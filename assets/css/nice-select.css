@@ -4,7 +4,7 @@
   color: #9d9d9d;
   background-color: #fff;
   border-radius: 5px;
-	border: solid 1px #dca73a;
+    border: solid 1px #dca73a;
   box-sizing: border-box;
   clear: both;
   cursor: pointer;
@@ -27,15 +27,15 @@
       -ms-user-select: none;
           user-select: none;
   white-space: nowrap;
-  width: auto; 
+  width: auto;
 
 }
   .nice-select:hover {
-    border-color: #dbdbdb; 
+    border-color: #dbdbdb;
   
   }
   .nice-select:active, .nice-select.open, .nice-select:focus {
-    border-color: #dca73a; 
+    border-color: #dca73a;
   }
   .nice-select::after {
     border-bottom: 2px solid #999;
@@ -64,7 +64,7 @@
     font-family: 'themify';
     font-size: 12px;
 
-/* 
+/*
     -webkit-transform: rotate(-135deg);
         -ms-transform: rotate(-135deg);
             transform: rotate(-135deg);  */

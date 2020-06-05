@@ -1,26 +1,9 @@
 <?php require_once 'layout/header.php' ?>
 
 <!-- slider Area Start-->
-<div class="slider-area ">
-            <div class="single-slider hero-overly slider-height2 d-flex align-items-center" data-background="assets/img/hero/about.jpg">
-                <div class="container">
-                    <div class="row">
-                        <div class="col-xl-12">
-                            <div class="hero-cap pt-100">
-                                <h2>About us</h2>
-                                <nav aria-label="breadcrumb ">
-                                    <ol class="breadcrumb">
-                                    <li class="breadcrumb-item"><a href="index.php">Home</a></li>
-                                    <li class="breadcrumb-item"><a href="about.php">About</a></li> 
-                                    </ol>
-                                </nav>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </div>
-        <!-- slider Area End-->
+<?php require_once 'layout/slider.php' ?>
+<!-- slider Area End-->
+
         <!-- About Area Start -->
         <section class="support-company-area fix pt-10 section-padding30">
             <div class="support-wrapper align-items-end">
@@ -126,7 +109,7 @@
                             <div class="front-text">
                                 <h2 class="">Our team</h2>
                             </div>
-                            <span class="back-text">exparts</span>
+                            <span class="back-text">experts</span>
                         </div>
                     </div>
                 </div>
@@ -135,7 +118,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/md.jpeg" alt="">
+                                <img src="assets/img/team/md.jpeg" alt="" height="500">
                             </div>
                             <div class="team-caption">
                                 <span>MD/CEO/Team leader</span>
@@ -146,10 +129,10 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/team2.png" alt="">
+                                <img src="assets/img/team/pm.jpeg" alt="" height="500">
                             </div>
                             <div class="team-caption">
-                                <span>UX Designer</span>
+                                <span>Project Manager</span>
                                 <h3>Ethan Welch</h3>
                             </div>
                         </div>
@@ -157,11 +140,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/team3.png" alt="">
+                                <img src="assets/img/team/pro.jpeg" alt="" height="500">
                             </div>
                             <div class="team-caption">
-                                <span>UX Designer</span>
-                                <h3>Ethan Welch</h3>
+                                <span>Public Relations Officer</span>
+                                <h3>Alina Brigitte</h3>
                             </div>
                         </div>
                     </div>

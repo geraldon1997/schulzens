@@ -104,7 +104,7 @@
   .slicknav_nav .slicknav_row {
     
     /* padding: 5px 10px; */
-    margin: 2px 5px; 
+    margin: 2px 5px;
   }
     .slicknav_nav .slicknav_row:hover {
       -webkit-border-radius: 6px;
@@ -144,10 +144,10 @@
   /*===== mobile menu slicknav =====*/
 
 .mobile_menu {
-	position: absolute;
-	right: 10px;
-	width: 96%;
-	z-index: 99;
+    position: absolute;
+    right: 10px;
+    width: 96%;
+    z-index: 99;
 }
 .slicknav_menu .slicknav_menutxt {
     display: none;
@@ -167,12 +167,12 @@
     position: relative;
 }
 .slicknav_btn {
-	background-color: transparent;
-	cursor: pointer;
-	margin-bottom: 10px;
-	margin-top: -35px;
-	position: relative;
-	z-index: 99;
+    background-color: transparent;
+    cursor: pointer;
+    margin-bottom: 10px;
+    margin-top: -35px;
+    position: relative;
+    z-index: 99;
 }
 /* .slicknav_menu .slicknav_open .slicknav_icon-bar:nth-child(2) {
     opacity: 0;
@@ -198,12 +198,12 @@
     background: #fff !important;
 }
 .slicknav_nav {
-	background: #fff;
-	float: right;
-	margin-top: 11px;
-	padding: 19px;
-	width: 100%;
-	border-bottom: 1px solid #eee;
+    background: #fff;
+    float: right;
+    margin-top: 11px;
+    padding: 19px;
+    width: 100%;
+    border-bottom: 1px solid #eee;
 }
 .slicknav_nav a:hover {
     background: #F79960 none repeat scroll 0 0;
@@ -230,33 +230,33 @@
     color: #000;
 }
 .slicknav_btn {
-	background-color: transparent;
-	cursor: pointer;
-	margin-bottom: -15px;
-	position: relative;
-	z-index: 99;
-	border: none;
-	border-radius: 3px;
-	top: -23px;
-	padding: 5px;
-	right: 5px;
-	margin-top: -5px;
+    background-color: transparent;
+    cursor: pointer;
+    margin-bottom: -15px;
+    position: relative;
+    z-index: 99;
+    border: none;
+    border-radius: 3px;
+    top: -23px;
+    padding: 5px;
+    right: 5px;
+    margin-top: -5px;
 }
 .slicknav_menu .slicknav_icon {
-	margin-right: 6px;
-	margin-top: 3px;
-	position: relative;
-	right: 5px;
-	top: -5px;
-	padding-bottom: 3px;
+    margin-right: 6px;
+    margin-top: 3px;
+    position: relative;
+    right: 5px;
+    top: -5px;
+    padding-bottom: 3px;
 }
 .slicknav_nav .slicknav_arrow {
-	float: right;
-	font-size: 22px;
-	position: relative;
-	top: -9px;
+    float: right;
+    font-size: 22px;
+    position: relative;
+    top: -9px;
 }
 .slicknav_menu .slicknav_nav a:hover {
-	background: transparent;
-	color: #dca73a;
+    background: transparent;
+    color: #dca73a;
 }
