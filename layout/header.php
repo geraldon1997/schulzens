@@ -1,3 +1,10 @@
+<?php 
+
+// $p = $_SERVER['REQUEST_SCHEME'];
+// if ($p === 'http') {
+//     header('location:https://'.$_SERVER['HTTP_HOST'].$_SERVER['REQUEST_URI']);
+// }
+?>
 <!doctype html>
 <html class="no-js" lang="zxx">
     <head>
@@ -82,7 +89,7 @@
                                         <ul id="navigation">                                                                                                                   
                                             <li><a href="/">Home</a></li>
                                             <li><a href="about.php">About</a></li>
-                                            <li><a href="project.html">Projects</a></li>
+                                            <li><a href="project.php">Projects</a></li>
                                             <li><a href="services.php">Services</a></li>
                                             <li><a href="contact.php">Contact</a></li>
                                         </ul>

@@ -37,7 +37,7 @@
                                         <h2>Construction</h2>
                                     </div>
                                     <div class="hero-text2 mt-110" data-animation="fadeInUp" data-delay=".9s">
-                                        <span><a href="services.html">Our Services</a></span>
+                                        <span><a href="services.php">Our Services</a></span>
                                     </div>
                                 </div>
                             </div>

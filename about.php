@@ -16,9 +16,9 @@
                         <span class="back-text">About us</span>
                     </div>
                     <div class="support-caption">
-                        <p class="pera-top">SEIAH provides high quality commercial and residential marine construction for your coastal area. The SEIAH Team possesses a long-term strategic interest in servicing your coastal area marine needs.</p>
-                        <p>SEIAH has been built on a foundation repeat business, long-term relationships, and innovative, cost-effective solutions to produce the ultimate customer satisfaction.  This focus on cost-effective solutions, repeat business, and customer satisfaction has ensured SEIAH maintains its highly regarded team.</p>
-                        <p>SEIAH is fully licensed and insured, to protect our employees and customers.  Additionally, Owner and President Jason Bator holds and qualifies the companies General Contractor’s license.</p>
+                        <p class="pera-top">SEIAG provides high quality commercial and residential marine construction for your coastal area. The SEIAG Team possesses a long-term strategic interest in servicing your coastal area marine needs.</p>
+                        <p>SEIAG has been built on a foundation repeat business, long-term relationships, and innovative, cost-effective solutions to produce the ultimate customer satisfaction.  This focus on cost-effective solutions, repeat business, and customer satisfaction has ensured SEIAG maintains its highly regarded team.</p>
+                        <p>SEIAG is fully licensed and insured, to protect our employees and customers.  Additionally, Owner and President Jason Bator holds and qualifies the companies General Contractor’s license.</p>
                     </div>
                 </div>
                 <div class="right-content">
