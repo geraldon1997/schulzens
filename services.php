@@ -47,11 +47,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-service-cap mb-30">
                             <div class="service-img">
-                                <img src="assets/img/service/servicess3.png" alt="">
+                                <img src="assets/img/service/s3.jpg" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="services_details.php?ddm">Dredging and Dirt Moving</a></h4>
+                                <a href="services_details.php?ddm" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">
@@ -61,11 +61,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-service-cap mb-30">
                             <div class="service-img">
-                                <img src="assets/img/service/servicess4.png" alt="">
+                                <img src="assets/img/service/s4.jpg" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="services_details.php?bs">Boat Salvage</a></h4>
+                                <a href="services_details.php?bs" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">
@@ -75,11 +75,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-service-cap mb-30">
                             <div class="service-img">
-                                <img src="assets/img/service/servicess5.png" alt="">
+                                <img src="assets/img/service/s5.jpg" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="services_details.php?d">Demolition</a></h4>
+                                <a href="services_details.php?d" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">
@@ -89,11 +89,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-service-cap mb-30">
                             <div class="service-img">
-                                <img src="assets/img/service/servicess6.png" alt="">
+                                <img src="assets/img/service/s6.jpg" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="services_details.php?bl">Boat Lifts</a></h4>
+                                <a href="services_details.php?bl" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">

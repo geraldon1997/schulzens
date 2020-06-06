@@ -1,14 +1,35 @@
 <?php require_once 'layout/header.php' ?>
+<style>
+    #myVideo {
+  position: fixed;
+  margin: 0;
+  min-width: 1350px;
+  min-height: 400px;
+}
+
+@media (max-width: 700px){
+    #myVideo {
+  position: fixed;
+  margin: 0;
+  min-width: auto;
+  min-height: auto;
+}
+}
+</style>
         <!-- slider Area Start-->
         <div class="slider-area ">
             <div class="slider-active">
-                <div class="single-slider  hero-overly slider-height d-flex align-items-center" data-background="assets/img/hero/h1_hero.jpg">
+                <div class="single-slider  hero-overly slider-height d-flex align-items-center" data-background="">
+                
+                <video id="myVideo" autoplay loop>
+                    <source src="assets/img/hero/vid.mp4">
+                </video>
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-11">
                                 <div class="hero__caption">
                                     <div class="hero-text1">
-                                        <span data-animation="fadeInUp" data-delay=".3s">hand car wash and detailing service</span>
+                                        <span data-animation="fadeInUp" data-delay=".3s"></span>
                                     </div>
                                     <h1 data-animation="fadeInUp" data-delay=".5s">advanced</h1>
                                     <div class="stock-text" data-animation="fadeInUp" data-delay=".8s">
@@ -16,7 +37,7 @@
                                         <h2>Construction</h2>
                                     </div>
                                     <div class="hero-text2 mt-110" data-animation="fadeInUp" data-delay=".9s">
-                                       <span><a href="services.html">Our Services</a></span>
+                                       <span><a href="services.php">Our Services</a></span>
                                     </div>
                                 </div>
                             </div>
@@ -29,7 +50,7 @@
                             <div class="col-lg-11">
                                 <div class="hero__caption">
                                     <div class="hero-text1">
-                                        <span data-animation="fadeInUp" data-delay=".3s">hand car wash and detailing service</span>
+                                        <span data-animation="fadeInUp" data-delay=".3s"></span>
                                     </div>
                                     <h1 data-animation="fadeInUp" data-delay=".5s">advanced</h1>
                                     <div class="stock-text" data-animation="fadeInUp" data-delay=".8s">
@@ -62,14 +83,14 @@
                     </div>
                 </div>
                 <div class="row">
-                    <div class="col-xl-4 col-lg-4 col-md-6">
+                <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-service-cap mb-30">
                             <div class="service-img">
-                                <img src="assets/img/service/servicess1.png" alt="">
+                                <img src="assets/img/service/s1.jpg" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="services_details.php?bts">Barge and Tug Services</a></h4>
+                                <a href="services_details.php?bts" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">
@@ -79,11 +100,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-service-cap mb-30">
                             <div class="service-img">
-                                <img src="assets/img/service/servicess2.png" alt="">
+                                <img src="assets/img/service/s2.jpg" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="services_details.php?rrrp">Rip Rap Rock Placement</a></h4>
+                                <a href="services_details.php?rrrp" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">
@@ -93,11 +114,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-service-cap mb-30">
                             <div class="service-img">
-                                <img src="assets/img/service/servicess3.png" alt="">
+                                <img src="assets/img/service/s3.jpg" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.htmlaa">Engineering techniques &  implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="services_details.php?ddm">Dredging and Dirt Moving</a></h4>
+                                <a href="services_details.php?ddm" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">
@@ -149,7 +170,7 @@
                                 <div class="front-text">
                                     <h2 class="">Our Projects</h2>
                                 </div>
-                                <span class="back-text">Gellary</span>
+                                <span class="back-text">Gallery</span>
                             </div>
                         </div>
                         <div class="col-lg-6">
@@ -157,11 +178,11 @@
                                 <!--Nav Button  -->                                            
                                 <nav> 
                                     <div class="nav nav-tabs" id="nav-tab" role="tablist">
-                                        <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="false"> Show  all </a>
-                                        <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false"> Intorior</a>
+                                        <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="false"> recent </a>
+                                        <!-- <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false"> Intorior</a>
                                         <a class="nav-item nav-link" id="nav-contact-tab" data-toggle="tab" href="#nav-contact" role="tab" aria-controls="nav-contact" aria-selected="false">Recent</a>
                                         <a class="nav-item nav-link" id="nav-last-tab" data-toggle="tab" href="#nav-last" role="tab" aria-controls="nav-contact" aria-selected="false">Big building</a>
-                                        <a class="nav-item nav-link" id="nav-technology" data-toggle="tab" href="#nav-techno" role="tab" aria-controls="nav-contact" aria-selected="false">Park</a>
+                                        <a class="nav-item nav-link" id="nav-technology" data-toggle="tab" href="#nav-techno" role="tab" aria-controls="nav-contact" aria-selected="false">Park</a> -->
                                     </div>
                                 </nav>
                                 <!--End Nav Button  -->
@@ -169,7 +190,7 @@
                         </div>
                     </div>
                </div>
-                <div class="row">
+               <div class="row">
                     <div class="col-12">
                         <!-- Nav Card -->
                         <div class="tab-content active" id="nav-tabContent">
@@ -180,72 +201,72 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/project1.png" alt="">
+                                                    <img src="assets/img/gallery/p1.jpg" alt="MUNYON ISLAND DOCKING FACILITY, NPB" >
                                                 </div>
                                                 <div class="project-cap">
-                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="project_details.html">Floride Chemicals</a></h4>
-                                                    <h4><a href="project_details.html">Factory</a></h4>
+                                                    <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="#">MUNYON ISLAND DOCKING FACILITY, NPB</a></h4>
+                                                    <!-- <h4><a href="#"></a></h4> -->
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/project2.png" alt="">
+                                                    <img src="assets/img/gallery/p2.jpg" alt=".5 Mile Dock, Pelican Harbor Delray Beach">
                                                 </div>
                                                 <div class="project-cap">
-                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
-                                                    <h4><a href="project_details.html">Factory</a></h4>
+                                                   <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="#">.5 Mile Dock, Pelican Harbor Delray Beachs</a></h4>
+                                                    <h4><a href="#"></a></h4>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/project3.png" alt="">
+                                                    <img src="assets/img/gallery/p3.jpg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
-                                                    <h4><a href="project_details.html">Factory</a></h4>
+                                                   <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="#">South Cove Downtown, West Palm Beach</a></h4>
+                                                    <h4><a href="#"></a></h4>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/project4.png" alt="">
+                                                    <img src="assets/img/gallery/p4.jpg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
-                                                    <h4><a href="project_details.html">Factory</a></h4>
+                                                   <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="#">Sea Wall Replacement, The Point Condo, Miami Beach</a></h4>
+                                                    <h4><a href="#"></a></h4>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/project5.png" alt="">
+                                                    <img src="assets/img/gallery/p5.jpg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
-                                                    <h4><a href="project_details.html">Factory</a></h4>
+                                                   <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="#">Delray Beach Boat Ramp</a></h4>
+                                                    <h4><a href="#"></a></h4>
                                                 </div>
                                             </div>
                                         </div>
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/project6.png" alt="">
+                                                    <img src="assets/img/gallery/p6.jpg" alt="">
                                                 </div>
                                                 <div class="project-cap">
-                                                    <a href="project_details.html" class="plus-btn"><i class="ti-plus"></i></a>
-                                                   <h4><a href="project_details.html">Floride Chemicals</a></h4>
-                                                    <h4><a href="project_details.html">Factory</a></h4>
+                                                   <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
+                                                    <h4><a href="#">Coast Guard Station, Ft. Lauderdale</a></h4>
+                                                    <h4><a href="#"></a></h4>
                                                 </div>
                                             </div>
                                         </div>
@@ -575,29 +596,7 @@
             </div>
         </section>
         <!-- Project Area End -->
-        <!-- contact with us Start -->
-        <section class="contact-with-area" data-background="assets/img/gallery/section-bg2.jpg">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-8 col-lg-9 offset-xl-1 offset-lg-1">
-                        <div class="contact-us-caption">
-                            <div class="team-info mb-30 pt-45">
-                                <!-- Section Tittle -->
-                                <div class="section-tittle section-tittle4">
-                                    <div class="front-text">
-                                        <h2 class="">Lats talk with us</h2>
-                                    </div>
-                                    <span class="back-text">Lat`s chat</span>
-                                </div>
-                                <p>Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjnt occa cupidatat non aute iruxvfg dhjinulpadeserunt mollitemnth incididbnt ut;o5tu layjobore mofllit anim.</p>
-                                <a href="#" class="white-btn">read more</a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-            </div>
-        </section>
-        <!-- contact with us End-->
+        
         <!-- CountDown Area Start -->
         <div class="count-area">
             <div class="container">
@@ -657,7 +656,7 @@
                             <div class="front-text">
                                 <h2 class="">Our team</h2>
                             </div>
-                            <span class="back-text">exparts</span>
+                            <span class="back-text">experts</span>
                         </div>
                     </div>
                 </div>
@@ -666,7 +665,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/md.jpeg" alt="LARRY SCHULZE">
+                                <img src="assets/img/team/md.jpeg" alt="" height="500">
                             </div>
                             <div class="team-caption">
                                 <span>MD/CEO/Team leader</span>
@@ -677,10 +676,10 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/team2.png" alt="">
+                                <img src="assets/img/team/pm.jpeg" alt="" height="500">
                             </div>
                             <div class="team-caption">
-                                <span>UX Designer</span>
+                                <span>Project Manager</span>
                                 <h3>Ethan Welch</h3>
                             </div>
                         </div>
@@ -688,11 +687,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/team3.png" alt="">
+                                <img src="assets/img/team/pro.jpeg" alt="" height="500">
                             </div>
                             <div class="team-caption">
-                                <span>UX Designer</span>
-                                <h3>Ethan Welch</h3>
+                                <span>Public Relations Officer</span>
+                                <h3>Alina Brigitte</h3>
                             </div>
                         </div>
                     </div>
@@ -765,64 +764,6 @@
             </div>
         </div>
         <!-- Testimonial End -->
-        <!--latest Nnews Area start -->
-        <div class="latest-news-area section-padding30">
-            <div class="container">
-                <div class="row">
-                    <div class="col-xl-12">
-                        <!-- Section Tittle -->
-                        <div class="section-tittle section-tittle7 mb-50">
-                            <div class="front-text">
-                                <h2 class="">latest news</h2>
-                            </div>
-                            <span class="back-text">Our Blog</span>
-                        </div>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col-xl-6 col-lg-6 col-md-6">
-                        <!-- single-news -->
-                        <div class="single-news mb-30">
-                            <div class="news-img">
-                                <img src="assets/img/david/david_1.png" alt="">
-                                <div class="news-date text-center">
-                                    <span>24</span>
-                                    <p>Now</p>
-                                </div>
-                            </div>
-                            <div class="news-caption">
-                                <ul class="david-info">
-                                    <li> | &nbsp; &nbsp;  Porperties</li>
-                                </ul>
-                                <h2><a href="single-blog.html">Footprints in Time is perfect
-                                    House in Kurashiki</a></h2>
-                                <a href="single-blog.html" class="d-btn">Read more »</a>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="col-xl-6 col-lg-6 col-md-6">
-                        <!-- single-news -->
-                        <div class="single-news mb-30">
-                            <div class="news-img">
-                                <img src="assets/img/david/david_2.png" alt="">
-                                <div class="news-date text-center">
-                                    <span>24</span>
-                                    <p>Now</p>
-                                </div>
-                            </div>
-                            <div class="news-caption">
-                                <ul class="david-info">
-                                    <li> | &nbsp; &nbsp;  Porperties</li>
-                                </ul>
-                                <h2><a href="single-blog.html">Footprints in Time is perfect
-                                    House in Kurashiki</a></h2>
-                                <a href="single-blog.html" class="d-btn">Read more » </a>
-                            </div>
-                        </div>
-                    </div>
-               </div>
-            </div>
-        </div>
-        <!--latest News Area End -->
+        
 
 <?php require_once 'layout/footer.php' ?>
