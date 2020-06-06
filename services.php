@@ -19,11 +19,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-service-cap mb-30">
                             <div class="service-img">
-                                <img src="assets/img/service/servicess1.png" alt="">
+                                <img src="assets/img/service/s1.jpg" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="services_details.php?bts">Barge and Tug Services</a></h4>
+                                <a href="services_details.php?bts" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">
@@ -33,11 +33,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-service-cap mb-30">
                             <div class="service-img">
-                                <img src="assets/img/service/servicess2.png" alt="">
+                                <img src="assets/img/service/s2.jpg" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.html">Engineering techniques & implementation</a></h4>
-                                <a href="services_details.html" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="services_details.php?rrrp">Rip Rap Rock Placement</a></h4>
+                                <a href="services_details.php?rrrp" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">
