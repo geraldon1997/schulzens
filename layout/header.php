@@ -10,8 +10,11 @@
     <head>
         <meta charset="utf-8">
         <meta http-equiv="x-ua-compatible" content="ie=edge">
-        <title>SCHULZENS ENGINEER AND INDUSTRIAL ARCHITECTURAL GROUPS</title>
-        <meta name="description" content="">
+        <title>SCHULZENS ENGINEERING AND INDUSTRIAL ARCHITECTURAL GROUPS</title>
+
+        <meta name="keywords" content="schulzen, schulzens, schulzen group, engineering, construction, seiag">
+        <meta name="description" content="SEIAG provides high quality commercial and residential marine construction for your coastal area. The SEIAG Team possesses a long-term strategic interest in servicing your coastal area marine needs.">
+        <meta name="author" content="SCHULZENS ENGINEERING AND INDUSTRIAL ARCHITECTURAL GROUPS">
         <meta name="viewport" content="width=device-width, initial-scale=1">
         <link rel="manifest" href="site.webmanifest">
         <link rel="shortcut icon" type="image/x-icon" href="assets/img/favicon.ico">
@@ -77,7 +80,9 @@
                             <div class="col-xl-2 col-lg-2 col-md-1">
                                 <div class="logo">
                                     <!-- logo-1 -->
-                                    <a href="/" class="big-logo"><img src="assets/img/logo/logo.png" alt=""></a>
+                                    <a href="/" class="big-logo"><img src="assets/img/logo/loder-logo.png" alt="">
+                                    <span style="color:white; font-size:30px; font-weight:bold; margin-top: 50px;">SEIAG</span>
+                                    </a>
                                     <!-- logo-2 -->
                                     <a href="/" class="small-logo"><img src="assets/img/logo/loder-logo.png" alt=""></a>
                                 </div>
