@@ -21,7 +21,7 @@
             <div class="slider-active">
                 <div class="single-slider  hero-overly slider-height d-flex align-items-center" data-background="">
                 
-                <video id="myVideo" autoplay loop>
+                <video id="myVideo" autoplay loop muted>
                     <source src="assets/img/hero/vid.mp4">
                 </video>
                     <div class="container">
