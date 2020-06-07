@@ -18,7 +18,7 @@
                     <div class="support-caption">
                         <p class="pera-top">SEIAG provides high quality commercial and residential marine construction for your coastal area. The SEIAG Team possesses a long-term strategic interest in servicing your coastal area marine needs.</p>
                         <p>SEIAG has been built on a foundation repeat business, long-term relationships, and innovative, cost-effective solutions to produce the ultimate customer satisfaction.  This focus on cost-effective solutions, repeat business, and customer satisfaction has ensured SEIAG maintains its highly regarded team.</p>
-                        <p>SEIAG is fully licensed and insured, to protect our employees and customers.  Additionally, Owner and President Jason Bator holds and qualifies the companies General Contractor’s license.</p>
+                        <p>SEIAG is fully licensed and insured, to protect our employees and customers.  Additionally, Owner and President Larry Schulze holds and qualifies the companies General Contractor’s license.</p>
                     </div>
                 </div>
                 <div class="right-content">
@@ -42,7 +42,7 @@
                         <!-- Section Tittle -->
                         <div class="section-tittle section-tittle6 mb-50">
                             <div class="front-text">
-                                <h2 class="">Testimonial</h2>
+                                <h2 class="">Reviews</h2>
                             </div>
                             <span class="back-text">Feedback</span>
                         </div>
@@ -61,13 +61,24 @@
                                         <path fill-rule="evenodd"  stroke-width="1px" stroke="rgb(255, 95, 19)" fill-opacity="0" fill="rgb(0, 0, 0)"
                                         d="M82.623,59.861 L48.661,59.861 L48.661,25.988 L59.982,3.406 L76.963,3.406 L65.642,25.988 L82.623,25.988 L82.623,59.861 ZM3.377,25.988 L14.698,3.406 L31.679,3.406 L20.358,25.988 L37.340,25.988 L37.340,59.861 L3.377,59.861 L3.377,25.988 Z"/>
                                         </svg>
-                                        <p>Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjnt occa cupidatat non aute iruxvfg dhjinulpadeserunt mollitemnth incididbnt ut;o5tu layjobore mofllit anim. Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjn.</p>
+                                        <p>
+                                        What Do You Like About Working There?
+                                        <br>
+                                        I loved the culture and my role...for 16 years, over many countries and business lines
+                                        </p>
+                                        <p>
+                                        What DON'T You Like About Working There?
+                                        <br>
+                                        No matter how "GOOD" you are. No matter how many promotions you get. You ARE EXPENDABLE. Unless you are the one making the decisions you WILL eventually be Laid off! Let me repeat that..YOU WILL BE LAID OFF.
+                                        What Are Your Favorite Benefits/Perks?
+                                        travel
+                                        </p>
                                     </div>
                                     <!-- founder -->
                                     <div class="testimonial-founder d-flex align-items-center">
                                        <div class="founder-text">
-                                            <span>Jessya Inn</span>
-                                            <p>Co Founder</p>
+                                            <span>Carlos Hernandez</span>
+                                            <p></p>
                                        </div>
                                     </div>
                                 </div>
@@ -82,13 +93,27 @@
                                         <path fill-rule="evenodd"  stroke-width="1px" stroke="rgb(255, 95, 19)" fill-opacity="0" fill="rgb(0, 0, 0)"
                                         d="M82.623,59.861 L48.661,59.861 L48.661,25.988 L59.982,3.406 L76.963,3.406 L65.642,25.988 L82.623,25.988 L82.623,59.861 ZM3.377,25.988 L14.698,3.406 L31.679,3.406 L20.358,25.988 L37.340,25.988 L37.340,59.861 L3.377,59.861 L3.377,25.988 Z"/>
                                         </svg>
-                                        <p>Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjnt occa cupidatat non aute iruxvfg dhjinulpadeserunt mollitemnth incididbnt ut;o5tu layjobore mofllit anim. Mollit anim laborum.Dvcuis aute iruxvfg dhjkolohr in re voluptate velit esscillumlore eu quife nrulla parihatur. Excghcepteur sfwsignjn.</p>
+                                        <p>
+                                        What Do You Like About Working There?
+                                        <br>
+                                        I worked as a Construction Engineer, so I enjoyed the operations side of the job.
+                                        </p>
+                                        <p>
+                                        What DON'T You Like About Working There?
+                                        <br>
+                                        Short breaks
+                                        </p>
+                                        <p>
+                                        What Are Your Favorite Benefits/Perks?
+                                        <br>
+                                        401k and bonus when job ends or the employee gets laid off
+                                        </p>
                                     </div>
                                     <!-- founder -->
                                     <div class="testimonial-founder d-flex align-items-center">
                                        <div class="founder-text">
-                                            <span>Jessya Inn</span>
-                                            <p>Co Founder</p>
+                                            <span>Alan Boeckmann</span>
+                                            <p></p>
                                        </div>
                                     </div>
                                 </div>
@@ -118,7 +143,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/md.jpeg" alt="" height="500">
+                                <img src="assets/img/team/md.jpeg" alt="" height="400">
                             </div>
                             <div class="team-caption">
                                 <span>MD/CEO/Team leader</span>
@@ -129,7 +154,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/pm.jpeg" alt="" height="500">
+                                <img src="assets/img/team/pm.jpeg" alt="" height="400">
                             </div>
                             <div class="team-caption">
                                 <span>Project Manager</span>
@@ -140,11 +165,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/pro.jpeg" alt="" height="500">
+                                <img src="assets/img/team/pro.jpeg" alt="" height="400">
                             </div>
                             <div class="team-caption">
                                 <span>Public Relations Officer</span>
-                                <h3>Alina Brigitte</h3>
+                                <h3>Steven Demetriou</h3>
                             </div>
                         </div>
                     </div>
