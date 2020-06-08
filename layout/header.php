@@ -85,7 +85,9 @@
                                     <span style="color:white; font-size:30px; font-weight:bold; margin-top: 50px;">SEIAG</span>
                                     </a>
                                     <!-- logo-2 -->
-                                    <a href="/" class="small-logo"><img src="assets/img/logo/loder-logo.png" alt=""></a>
+                                    <a href="/" class="small-logo"><img src="assets/img/logo/loder-logo.png" alt="">
+                                    <span style="color:white; font-size:30px; font-weight:bold; margin-top: 50px;">SEIAG</span>
+                                    </a>
                                 </div>
                             </div>
                             <div class="col-xl-8 col-lg-8 col-md-8">

@@ -665,7 +665,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/md.jpeg" alt="" height="500">
+                                <img src="assets/img/team/md.jpeg" alt="" height="400">
                             </div>
                             <div class="team-caption">
                                 <span>MD/CEO/Team leader</span>
@@ -676,7 +676,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/pm.jpeg" alt="" height="500">
+                                <img src="assets/img/team/pm.jpeg" alt="" height="400">
                             </div>
                             <div class="team-caption">
                                 <span>Project Manager</span>
@@ -687,7 +687,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/pro.jpeg" alt="" height="500">
+                                <img src="assets/img/team/pro.jpeg" alt="" height="400">
                             </div>
                             <div class="team-caption">
                                 <span>Public Relations Officer</span>
