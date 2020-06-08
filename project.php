@@ -21,8 +21,8 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="properties__button">
-                                <!--Nav Button  -->                                            
-                                <nav> 
+                                <!--Nav Button  -->
+                                <nav>
                                     <div class="nav nav-tabs" id="nav-tab" role="tablist">
                                         <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="false"> recent projects </a>
                                         <!-- <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false"> Intorior</a>
@@ -41,7 +41,7 @@
                         <!-- Nav Card -->
                         <div class="tab-content active" id="nav-tabContent">
                             <!-- card ONE -->
-                            <div class="tab-pane fade active show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">           
+                            <div class="tab-pane fade active show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
                                 <div class="project-caption">
                                     <div class="row">
                                         <div class="col-lg-4 col-md-6">
@@ -51,7 +51,7 @@
                                                 </div>
                                                 <div class="project-cap">
                                                     <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="#">Tunnel of la linea Colombia</a></h4>
+                                                    <h4><a href="#">Tunnel of la linea Cl</a></h4>
                                                     <!-- <h4><a href="#"></a></h4> -->
                                                 </div>
                                             </div>
