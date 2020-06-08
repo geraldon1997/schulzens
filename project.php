@@ -107,11 +107,11 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/p6.jpg" alt=".5 Mile Dock, Pelican Harbor Delray Beachs">
+                                                    <img src="assets/img/gallery/p6.jpeg" alt="Lemar Shopping mall Usküdar">
                                                 </div>
                                                 <div class="project-cap">
                                                    <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="#">.5 Mile Dock, Pelican Harbor Delray Beachs</a></h4>
+                                                    <h4><a href="#">Lemar Shopping mall Usküdar</a></h4>
                                                     <h4><a href="#"></a></h4>
                                                 </div>
                                             </div>
