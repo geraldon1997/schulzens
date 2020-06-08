@@ -47,11 +47,11 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/p1.jpg" alt="MUNYON ISLAND DOCKING FACILITY, NPB" >
+                                                    <img src="assets/img/gallery/p1.jpeg" alt="Tunnel of la linea Colombia" >
                                                 </div>
                                                 <div class="project-cap">
                                                     <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="#">MUNYON ISLAND DOCKING FACILITY, NPB</a></h4>
+                                                    <h4><a href="#">Tunnel of la linea Colombia</a></h4>
                                                     <!-- <h4><a href="#"></a></h4> -->
                                                 </div>
                                             </div>
@@ -59,11 +59,11 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/p2.jpg" alt=".5 Mile Dock, Pelican Harbor Delray Beach">
+                                                    <img src="assets/img/gallery/p2.jpeg" alt="IESS south hospital Quito">
                                                 </div>
                                                 <div class="project-cap">
                                                    <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="#">.5 Mile Dock, Pelican Harbor Delray Beachs</a></h4>
+                                                    <h4><a href="#">IESS south hospital Quito</a></h4>
                                                     <h4><a href="#"></a></h4>
                                                 </div>
                                             </div>
@@ -71,11 +71,11 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/p3.jpg" alt="">
+                                                    <img src="assets/img/gallery/p3.jpeg" alt="Jonava Bridge LTH">
                                                 </div>
                                                 <div class="project-cap">
                                                    <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="#">South Cove Downtown, West Palm Beach</a></h4>
+                                                    <h4><a href="#">Jonava Bridge LTH</a></h4>
                                                     <h4><a href="#"></a></h4>
                                                 </div>
                                             </div>
@@ -83,11 +83,11 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/p4.jpg" alt="">
+                                                    <img src="assets/img/gallery/p4.jpeg" alt="Railway bridge and Trestles WC">
                                                 </div>
                                                 <div class="project-cap">
                                                    <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="#">Sea Wall Replacement, The Point Condo, Miami Beach</a></h4>
+                                                    <h4><a href="#">Railway bridge and Trestles WC</a></h4>
                                                     <h4><a href="#"></a></h4>
                                                 </div>
                                             </div>
@@ -95,7 +95,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/p5.jpg" alt="">
+                                                    <img src="assets/img/gallery/p5.jpg" alt="Delray Beach Boat Ramp">
                                                 </div>
                                                 <div class="project-cap">
                                                    <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
@@ -107,11 +107,11 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/p6.jpg" alt="">
+                                                    <img src="assets/img/gallery/p6.jpg" alt=".5 Mile Dock, Pelican Harbor Delray Beachs">
                                                 </div>
                                                 <div class="project-cap">
                                                    <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="#">Coast Guard Station, Ft. Lauderdale</a></h4>
+                                                    <h4><a href="#">.5 Mile Dock, Pelican Harbor Delray Beachs</a></h4>
                                                     <h4><a href="#"></a></h4>
                                                 </div>
                                             </div>
