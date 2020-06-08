@@ -16,9 +16,9 @@
                         <span class="back-text">About us</span>
                     </div>
                     <div class="support-caption">
-                        <p class="pera-top">SEIAG provides high quality commercial and residential marine construction for your coastal area. The SEIAG Team possesses a long-term strategic interest in servicing your coastal area marine needs.</p>
-                        <p>SEIAG has been built on a foundation repeat business, long-term relationships, and innovative, cost-effective solutions to produce the ultimate customer satisfaction.  This focus on cost-effective solutions, repeat business, and customer satisfaction has ensured SEIAG maintains its highly regarded team.</p>
-                        <p>SEIAG is fully licensed and insured, to protect our employees and customers.  Additionally, Owner and President Larry Schulze holds and qualifies the companies General Contractor’s license.</p>
+                        <p class="pera-top">SEIAG provides high quality commercial, residential, industrial and marine construction etc</p>
+                        <p>services and maintenance of both macro, micro environment, physical and biotic environment.</p>
+                        <p>The SEIAG Team possesses a long-term strategic interest in servicing your environments and projects needs.</p>
                     </div>
                 </div>
                 <div class="right-content">

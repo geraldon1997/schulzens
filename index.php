@@ -83,14 +83,14 @@
                     </div>
                 </div>
                 <div class="row">
-                <div class="col-xl-4 col-lg-4 col-md-6">
+                    <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-service-cap mb-30">
                             <div class="service-img">
-                                <img src="assets/img/service/s1.jpg" alt="">
+                                <img src="assets/img/service/s1.jpeg" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.php?bts">Barge and Tug Services</a></h4>
-                                <a href="services_details.php?bts" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="services_details.php?pef">Pipeline Engineering and fabrication</a></h4>
+                                <a href="services_details.php?pef" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">
@@ -100,11 +100,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-service-cap mb-30">
                             <div class="service-img">
-                                <img src="assets/img/service/s2.jpg" alt="">
+                                <img src="assets/img/service/s2.jpeg" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.php?rrrp">Rip Rap Rock Placement</a></h4>
-                                <a href="services_details.php?rrrp" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="services_details.php?smwf">Sheet metal working and fabrication.</a></h4>
+                                <a href="services_details.php?smwf" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">
@@ -114,11 +114,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6">
                         <div class="single-service-cap mb-30">
                             <div class="service-img">
-                                <img src="assets/img/service/s3.jpg" alt="">
+                                <img src="assets/img/service/s3.jpeg" alt="">
                             </div>
                             <div class="service-cap">
-                                <h4><a href="services_details.php?ddm">Dredging and Dirt Moving</a></h4>
-                                <a href="services_details.php?ddm" class="more-btn">Read More <i class="ti-plus"></i></a>
+                                <h4><a href="services_details.php?qplws">Quantity and Production Line Welding Services</a></h4>
+                                <a href="services_details.php?qplws" class="more-btn">Read More <i class="ti-plus"></i></a>
                             </div>
                             <div class="service-icon">
                                 <img src="assets/img/icon/services_icon1.png" alt="">
@@ -141,8 +141,8 @@
                         <span class="back-text">About us</span>
                     </div>
                     <div class="support-caption">
-                        <p class="pera-top">SEIAG provides high quality commercial and residential marine construction for your coastal area. The SEIAG Team possesses a long-term strategic interest in servicing your coastal area marine needs.</p>
-                        <p>SEIAG has been built on a foundation repeat business, long-term relationships, and innovative, cost-effective solutions to produce the ultimate customer satisfaction.  This focus on cost-effective solutions, repeat business, and customer satisfaction has ensured SEIAG maintains its highly regarded team.</p>
+                        <p class="pera-top">SEIAG provides high quality commercial, residential, industrial and marine construction etc</p>
+                        <p>services and maintenance of both macro, micro environment, physical and biotic environment.</p>
                         <a href="about.php" class="btn red-btn2">read more</a>
                     </div>
                 </div>

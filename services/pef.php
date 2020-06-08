@@ -5,10 +5,12 @@
                     <div class="col-12">
                         <div class="single-services section-padding2">
                             <div class="details-img mb-40">
-                                <img src="assets/img/service/s1.jpg" alt="">
+                                <img src="assets/img/service/s1.jpeg" alt="">
                             </div>
                             <div class="details-caption">
-                                <p>SEIAG is equipped for a variety of services including using our barge tugboat and crane to access water only locations. Accessing a property from the water is no problem, as we have experience transporting all types of materials including landscaping materials, and building materials to residential or business locations. MEC also provides barge and tug boat services to local municipalities for special events.</p>
+                                <p>SEAIG offer many pipework fabrication services to industry and carry out fabrication and welding work to pipes (in all materials) servicing Water, Gas, Air, Oil as well as Process pipework.
+
+We can repair existing installations, as well as lay down new pipework, with each new installation fabricated to your exact requirements. We can also help if you have requirements for Plastic Fusion pipework for Water and Gas installations.</p>
                             </div>
                         </div>
                     </div>
