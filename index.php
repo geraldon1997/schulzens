@@ -20,7 +20,7 @@
         <div class="slider-area ">
             <div class="slider-active">
                 <div class="single-slider  hero-overly slider-height d-flex align-items-center" data-background="">
-                
+
                 <video id="myVideo" autoplay loop muted>
                     <source src="assets/img/hero/vid.mp4">
                 </video>
@@ -175,8 +175,8 @@
                         </div>
                         <div class="col-lg-6">
                             <div class="properties__button">
-                                <!--Nav Button  -->                                            
-                                <nav> 
+                                <!--Nav Button  -->
+                                <nav>
                                     <div class="nav nav-tabs" id="nav-tab" role="tablist">
                                         <a class="nav-item nav-link active" id="nav-home-tab" data-toggle="tab" href="#nav-home" role="tab" aria-controls="nav-home" aria-selected="false"> recent </a>
                                         <!-- <a class="nav-item nav-link" id="nav-profile-tab" data-toggle="tab" href="#nav-profile" role="tab" aria-controls="nav-profile" aria-selected="false"> Intorior</a>
@@ -195,17 +195,17 @@
                         <!-- Nav Card -->
                         <div class="tab-content active" id="nav-tabContent">
                             <!-- card ONE -->
-                            <div class="tab-pane fade active show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">           
+                            <div class="tab-pane fade active show" id="nav-home" role="tabpanel" aria-labelledby="nav-home-tab">
                                 <div class="project-caption">
                                     <div class="row">
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/p1.jpg" alt="MUNYON ISLAND DOCKING FACILITY, NPB" >
+                                                    <img src="assets/img/gallery/p1.jpeg" alt="Tunnel of la linea Colombia" >
                                                 </div>
                                                 <div class="project-cap">
                                                     <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="#">MUNYON ISLAND DOCKING FACILITY, NPB</a></h4>
+                                                    <h4><a href="#">Tunnel of la linea Cl</a></h4>
                                                     <!-- <h4><a href="#"></a></h4> -->
                                                 </div>
                                             </div>
@@ -213,11 +213,11 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/p2.jpg" alt=".5 Mile Dock, Pelican Harbor Delray Beach">
+                                                    <img src="assets/img/gallery/p2.jpeg" alt="IESS south hospital Quito">
                                                 </div>
                                                 <div class="project-cap">
                                                    <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="#">.5 Mile Dock, Pelican Harbor Delray Beachs</a></h4>
+                                                    <h4><a href="#">IESS south hospital Quito</a></h4>
                                                     <h4><a href="#"></a></h4>
                                                 </div>
                                             </div>
@@ -225,11 +225,11 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/p3.jpg" alt="">
+                                                    <img src="assets/img/gallery/p3.jpeg" alt="Jonava Bridge LTH">
                                                 </div>
                                                 <div class="project-cap">
                                                    <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="#">South Cove Downtown, West Palm Beach</a></h4>
+                                                    <h4><a href="#">Jonava Bridge LTH</a></h4>
                                                     <h4><a href="#"></a></h4>
                                                 </div>
                                             </div>
@@ -237,11 +237,11 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/p4.jpg" alt="">
+                                                    <img src="assets/img/gallery/p4.jpeg" alt="Railway bridge and Trestles WC">
                                                 </div>
                                                 <div class="project-cap">
                                                    <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="#">Sea Wall Replacement, The Point Condo, Miami Beach</a></h4>
+                                                    <h4><a href="#">Railway bridge and Trestles WC</a></h4>
                                                     <h4><a href="#"></a></h4>
                                                 </div>
                                             </div>
@@ -249,7 +249,7 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/p5.jpg" alt="">
+                                                    <img src="assets/img/gallery/p5.jpg" alt="Delray Beach Boat Ramp">
                                                 </div>
                                                 <div class="project-cap">
                                                    <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
@@ -261,11 +261,11 @@
                                         <div class="col-lg-4 col-md-6">
                                             <div class="single-project mb-30">
                                                 <div class="project-img">
-                                                    <img src="assets/img/gallery/p6.jpg" alt="">
+                                                    <img src="assets/img/gallery/p6.jpeg" alt="Lemar Shopping mall Usküdar">
                                                 </div>
                                                 <div class="project-cap">
                                                    <a href="#" class="plus-btn"><i class="ti-plus"></i></a>
-                                                    <h4><a href="#">Coast Guard Station, Ft. Lauderdale</a></h4>
+                                                    <h4><a href="#">Lemar Shopping mall Usküdar</a></h4>
                                                     <h4><a href="#"></a></h4>
                                                 </div>
                                             </div>
@@ -596,7 +596,7 @@
             </div>
         </section>
         <!-- Project Area End -->
-        
+
         <!-- CountDown Area Start -->
         <div class="count-area">
             <div class="container">
@@ -789,6 +789,6 @@
             </div>
         </div>
         <!-- Testimonial End -->
-        
+
 
 <?php require_once 'layout/footer.php' ?>
