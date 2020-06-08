@@ -169,7 +169,7 @@
                             </div>
                             <div class="team-caption">
                                 <span>Public Relations Officer</span>
-                                <h3>Steven Demetriou</h3>
+                                <h3>Chen Liu</h3>
                             </div>
                         </div>
                     </div>
