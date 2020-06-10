@@ -7,6 +7,10 @@
   min-height: 400px;
 }
 
+.project-img img{
+        height: 400px;
+    }
+
 @media (max-width: 700px){
     #myVideo {
   position: fixed;
