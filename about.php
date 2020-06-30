@@ -33,7 +33,7 @@
                 </div>
             </div>
         </section>
-        <!-- About Area End --> 
+        <!-- About Area End -->
         <!-- Testimonial Start -->
         <div class="testimonial-area t-bg testimonial-padding">
             <div class="container ">
@@ -143,11 +143,11 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/md.jpeg" alt="" height="400">
+                                <img src="assets/img/team/ceo.jpg" alt="" height="400">
                             </div>
                             <div class="team-caption">
                                 <span>MD/CEO/Team leader</span>
-                                <h3>LARRY SCHULZE</h3>
+                                <h3>RAYMOND TRAN NGUYEN</h3>
                             </div>
                         </div>
                     </div>

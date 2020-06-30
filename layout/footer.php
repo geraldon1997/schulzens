@@ -15,7 +15,7 @@
                                     </div>
                                     <div class="footer-tittle">
                                         <div class="footer-pera">
-                                            <p class="info1">SEIAG is fully licensed and insured, to protect our employees and customers.  Additionally, Owner and President Larry Schulze holds and qualifies the companies General Contractor’s license.</p>
+                                            <p class="info1">SEIAG is fully licensed and insured, to protect our employees and customers.  Additionally, Owner and President Raymond Tran Nguyen holds and qualifies the companies General Contractor’s license.</p>
                                         </div>
                                     </div>
                                 </div>
@@ -85,9 +85,9 @@
         </div>
         <!-- Footer End-->
     </footer>
-   
+
 	<!-- JS here -->
-	
+
 		<!-- All JS Custom Plugins Link Here here -->
         <script src="./assets/js/vendor/modernizr-3.5.0.min.js"></script>
 		<!-- Jquery, Popper, Bootstrap -->
@@ -111,7 +111,7 @@
         <script src="./assets/js/jquery.scrollUp.min.js"></script>
         <script src="./assets/js/jquery.nice-select.min.js"></script>
 		<script src="./assets/js/jquery.sticky.js"></script>
-               
+
         <!-- counter , waypoint -->
         <script src="http://cdnjs.cloudflare.com/ajax/libs/waypoints/2.0.3/waypoints.min.js"></script>
         <script src="./assets/js/jquery.counterup.min.js"></script>
@@ -122,10 +122,10 @@
         <script src="./assets/js/jquery.validate.min.js"></script>
         <script src="./assets/js/mail-script.js"></script>
         <script src="./assets/js/jquery.ajaxchimp.min.js"></script>
-        
-		<!-- Jquery Plugins, main Jquery -->	
+
+		<!-- Jquery Plugins, main Jquery -->
         <script src="./assets/js/plugins.js"></script>
         <script src="./assets/js/main.js"></script>
-        
+
     </body>
 </html>
