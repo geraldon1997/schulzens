@@ -60,16 +60,16 @@
                        <div class="col-xl-12">
                             <div class="row d-flex justify-content-between align-items-center">
                                 <div class="header-info-left">
-                                    <ul>     
+                                    <ul>
                                         <li><a href="tel:+2059523823" style="color:white;">+ (205) 952-3823</a></li>
                                         <li><a href="tel:+17609336329" style="color:white;">+ 1 (760)-933-6329</a></li>
-                                        <li><a href="mailto:larryschulze@schulzensgroups.com" style="color:white;">larryschulze@schulzensgroups.com</a></li>
-                                        <li><a href="mailto:marketing@schulzensgroups.com" style="color:white;">marketing@schulzensgroups.com</a></li>
+                                        <li><a href="mailto:raymondtrannguyen@schulzensgroups.com" style="color:white;">raymondtrannguyen@schulzensgroups.com</a></li>
+
                                         <li>Mon - Sat 8:00 - 17:30, Sunday - CLOSED</li>
                                     </ul>
                                 </div>
                                 <div class="header-info-right">
-                                    <ul class="header-social">    
+                                    <ul class="header-social">
                                         <li><a href="#"><i class="fab fa-twitter"></i></a></li>
                                         <li><a href="#"><i class="fab fa-facebook-f"></i></a></li>
                                         <li><a href="#"><i class="fab fa-linkedin-in"></i></a></li>
@@ -99,8 +99,8 @@
                             <div class="col-xl-8 col-lg-8 col-md-8">
                                 <!-- Main-menu -->
                                 <div class="main-menu f-right d-none d-lg-block">
-                                    <nav> 
-                                        <ul id="navigation">                                                                                                                   
+                                    <nav>
+                                        <ul id="navigation">
                                             <li><a href="/">Home</a></li>
                                             <li><a href="about.php">About</a></li>
                                             <li><a href="project.php">Projects</a></li>
@@ -109,7 +109,7 @@
                                         </ul>
                                     </nav>
                                 </div>
-                            </div>             
+                            </div>
                             <div class="col-xl-2 col-lg-2 col-md-3">
                                 <div class="header-right-btn f-right d-none d-lg-block">
                                     <a href="contact.php" class="btn">Contact Now</a>
