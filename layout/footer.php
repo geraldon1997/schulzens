@@ -41,7 +41,7 @@
                                             <p class="info1">25476 friendship Road C, Daphne,AL 36526 United States</p>
                                         </div>
                                         <ul>
-                                            <li><a href="tel:+2059523823">Phone: + (205) 952-3823</a></li>
+                                            <li><a href="tel:+18573141712">Phone: +1 (857)-314-1712</a></li>
                                             <li><a href="tel:+17609336329">tel: +1 (760)-933-6329</a></li>
                                         </ul>
                                     </div>
