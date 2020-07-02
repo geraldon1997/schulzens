@@ -63,7 +63,7 @@
                                     <ul>
                                         <li><a href="tel:+2059523823" style="color:white;">+ (205) 952-3823</a></li>
                                         <li><a href="tel:+17609336329" style="color:white;">+ 1 (760)-933-6329</a></li>
-                                        <li><a href="mailto:raymondtrannguyen@schulzensgroups.com" style="color:white;">raymondtrannguyen@schulzensgroups.com</a></li>
+                                        <li><a href="mailto:larryschulze@schulzensgroups.com" style="color:white;">larryschulze@schulzensgroups.com</a></li>
 
                                         <li>Mon - Sat 8:00 - 17:30, Sunday - CLOSED</li>
                                     </ul>
