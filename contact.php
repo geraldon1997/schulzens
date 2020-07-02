@@ -54,7 +54,7 @@
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-tablet"></i></span>
                             <div class="media-body">
-                                <h3><a href="tel:+18573141712" style="color:black;">+1 8573141712</a></h3>
+                                <h3><a href="tel:+18573141712" style="color:black;">+1 (857)-314-1712</a></h3>
                                 <h3><a href="tel:+17609336329" style="color:black;">+ 1 (760)-933-6329</a></h3>
                                 <p>Mon to sat 8am to 5:30pm</p>
                             </div>

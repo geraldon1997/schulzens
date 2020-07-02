@@ -61,7 +61,7 @@
                             <div class="row d-flex justify-content-between align-items-center">
                                 <div class="header-info-left">
                                     <ul>
-                                        <li><a href="tel:+18573141712" style="color:white;">+18573141712</a></li>
+                                        <li><a href="tel:+18573141712" style="color:white;">+1 (857)-314-1712</a></li>
                                         <li><a href="tel:+17609336329" style="color:white;">+ 1 (760)-933-6329</a></li>
                                         <li><a href="mailto:raymondtrannguyen@schulzensgroups.com" style="color:white;">raymondtrannguyen@schulzensgroups.com</a></li>
 
