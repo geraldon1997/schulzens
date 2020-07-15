@@ -15,7 +15,7 @@
                                     </div>
                                     <div class="footer-tittle">
                                         <div class="footer-pera">
-                                            <p class="info1">SEIAG is fully licensed and insured, to protect our employees and customers.  Additionally, Co-owner and Executive Officer Raymond Tran Nguyen holds and qualifies the companies General Contractor’s license.</p>
+                                            <p class="info1">SEIAG is fully licensed and insured, to protect our employees and customers.  Additionally, Co-owner and Executive Officer David Sanchez Stewart holds and qualifies the companies General Contractor’s license.</p>
                                         </div>
                                     </div>
                                 </div>

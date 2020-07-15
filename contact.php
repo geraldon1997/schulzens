@@ -62,7 +62,7 @@
                         <div class="media contact-info">
                             <span class="contact-info__icon"><i class="ti-email"></i></span>
                             <div class="media-body">
-                                <h3><a href="mailto:raymondtrannguyen@schulzensgroups.com" style="color:black;">raymondtrannguyen@schulzensgroups.com</a></h3>
+                                <h3><a href="mailto:Davidstewart@schulzensgroups.com" style="color:black;">Davidstewart@schulzensgroups.com</a></h3>
                                 <p>Send us your query anytime!</p>
                             </div>
                         </div>
