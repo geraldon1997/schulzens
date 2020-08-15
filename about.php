@@ -143,7 +143,7 @@
                     <div class="col-xl-4 col-lg-4 col-md-6 col-sm-">
                         <div class="single-team mb-30">
                             <div class="team-img">
-                                <img src="assets/img/team/ceo.jpeg" alt="" height="400">
+                                <img src="assets/img/team/md.jpeg" alt="" height="400">
                             </div> 
                             <div class="team-caption">
                                 <span>MD/CEO/Team leader</span>
